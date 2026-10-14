@@ -27,7 +27,7 @@ A machine-learning project that scores how suitable different locations in Pune 
 |---|---|---|
 | Population | WorldPop (`WorldPop/GP/100m/pop`) via GEE | `pop` |
 | Night-time lights | VIIRS (`NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG`) via GEE | `ntl` |
-| Land cover | Dynamic World (`GOOGLE/DYNAMIC_WORLD/V1`) via GEE | `built_prob`, `trees_prob` |
+| Land cover | Dynamic World (`GOOGLE/DYNAMICWORLD/V1`) via GEE | `built_prob`, `trees_prob` |
 | Vegetation | Sentinel-2 SR (`COPERNICUS/S2_SR_HARMONIZED`) via GEE | `ndvi` |
 | Terrain | SRTM (`USGS/SRTMGL1_003`) via GEE | `elev`, `slope` |
 | Charging stations (label) | OpenStreetMap | `has_station` |
