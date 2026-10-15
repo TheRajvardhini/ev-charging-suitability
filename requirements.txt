@@ -7,3 +7,7 @@ geopandas
 osmnx
 joblib
 streamlit
+folium
+streamlit-folium
+plotly
+scipy
