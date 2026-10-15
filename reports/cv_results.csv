@@ -1,0 +1,5 @@
+Model,PR-AUC (pooled),PR-AUC (fold mean),PR-AUC (fold sd),ROC-AUC,Top5% precision,Top5% recall,Top5% F1
+Logistic Regression (baseline),0.147,0.175,0.049,0.861,0.19,0.392,0.256
+Random Forest,0.197,0.218,0.058,0.868,0.223,0.461,0.3
+Gradient boosting (HGB),0.154,0.172,0.046,0.829,0.19,0.392,0.256
+"Random Forest, balanced 102+102 sample",0.227,0.231,0.093,0.877,0.209,0.431,0.281
