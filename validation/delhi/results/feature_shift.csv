@@ -1,0 +1,12 @@
+,Pune median,Delhi median
+pop,19.595,72.548
+ntl,18.575,30.008
+built_prob,0.436,0.41
+trees_prob,0.077,0.068
+ndvi,0.264,0.323
+elev,586.252,216.234
+slope,1.993,1.817
+log_dist_main_road,6.242,6.118
+log_n_fuel_1km,0.0,0.0
+log_n_mall_1km,0.0,0.0
+log_n_parking_1km,0.0,0.0
